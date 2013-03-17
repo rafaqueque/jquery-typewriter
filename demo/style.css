@@ -1,0 +1,19 @@
+body 
+{
+  background-color: #ECE5CE;
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier';
+  color: #774F38;
+}
+
+h1
+{
+  color: #774F38;
+}
+
+div 
+{
+  margin: 100px auto;
+  width: 500px;
+}
